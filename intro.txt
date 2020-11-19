@@ -1,0 +1,5 @@
+UCInetID: rwcheung
+
+My name is Ryan Cheung. I work at Seagate Technology and will be working at Sony in the winter.
+I am pretty new to programming and am currently struggling with my project in ICS45C and I hope
+I will finish.
